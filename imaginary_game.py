@@ -7,6 +7,7 @@ y = 10
 dx = 1
 dy = 1
 
+
 while True:
     x+= dx
     y+= dy
